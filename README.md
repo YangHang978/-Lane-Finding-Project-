@@ -3,7 +3,7 @@
 ## 车道线检测项目
 
 本项目来自优达学城无人驾驶车课程，项目目标基于计算机视觉方法实现车道线检测与显示的效果。
-项目链接：https://github.com/udacity/CarND-Advanced-Lane-Lines
+项目链接：https://github.com/udacity/CarND-Advanced-Lane-Lines ，项目用到的的图片文件等可以从这里下载。
 
 项目实现
 ---
